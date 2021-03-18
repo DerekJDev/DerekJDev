@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  I'm live in Colorado! I focus mainly on front-end development, Angular to be exact. When I'm not coding you can find me skiing ⛷, skateboarding 🛹, or hiking 🗻. I enjoy teaching other people things the I know and I equally enjoy learning from other people. Make everyday better than yesterday!
+  I focus mainly on front-end development, Angular to be exact. When I'm not coding you can find me skiing ⛷, skateboarding 🛹, or hiking 🗻. I enjoy teaching other people things the I know and I equally enjoy learning from other people. Make everyday better than yesterday!
 </p>
